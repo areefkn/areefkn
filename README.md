@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](image.png)
+
 <!--
 **areefkn/areefkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
